@@ -127,6 +127,7 @@ select{
     padding: 25px;
 }
 .ft{
+   background-color: dark-blue;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
