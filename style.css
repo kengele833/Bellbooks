@@ -1,3 +1,6 @@
+.body no1 { 
+   background-color: black;
+}
 .bod { 
     background-color: black;
     display: flex;
@@ -153,7 +156,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 fieldset{
-    background-color: orange;
+    background-color: dark-blue;
     color: brown;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
