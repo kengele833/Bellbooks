@@ -31,6 +31,10 @@ h2{
     color: bisque;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
+h2{
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    }
 .menu{
     display: flex;
     flex-direction: row;
@@ -63,7 +67,7 @@ h2{
 
 a {
     margin: 15px;
-    background-color: black;
+    background-color: pink;
     color: gold;
 }
 
