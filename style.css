@@ -32,7 +32,7 @@ h2{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
 a h1{
-    color: green;
+    color: orange;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     }
 .menu{
@@ -45,6 +45,8 @@ a h1{
     flex-direction: row;
     justify-content: center;
     align-items: start;
+    color:dark-blue;
+    font-size:small;
 }
 
 
@@ -149,7 +151,7 @@ fieldset{
     color: brown;
 }
 .CHAND{
-   background-color: green;
+   background-color: grey;
   
     display: flexbox;
     flex-direction: column;
