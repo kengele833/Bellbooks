@@ -15,10 +15,12 @@
     background-size: cover;
 }
    
-.tanga{
-      background-color: pink;
-      color:dark-blue;
-    font-size:small;
+fieldset tanga{
+    background-color: grey;
+    color: dark-blue;
+    font-size: small;
+     width: 40%;
+    height: 40%;
 }
 .logo{
     color: lightskyblue;
