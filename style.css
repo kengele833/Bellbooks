@@ -67,7 +67,7 @@ a h1{
 
 a {
     margin: 15px;
-    background-color: pink;
+    background-color: black;
     color: gold;
 }
 
@@ -96,6 +96,7 @@ footer{
 select{
     color: purple;
     background-color: black;
+     border-radius: 10px;
 }
 .bod2{
     background-image: url(./afr.jpg);
@@ -144,11 +145,11 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 fieldset{
-    background-color: black;
+    background-color: grey;
     color: brown;
 }
 .CHAND{
-   background-color: black;
+   background-color: green;
   
     display: flexbox;
     flex-direction: column;
