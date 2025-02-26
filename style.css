@@ -1,4 +1,4 @@
-.body no1 { 
+.bodyno1 { 
    background-color: black;
 }
 .bod { 
@@ -159,7 +159,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 fieldset{
-    background-color: dark-blue;
+    background-color: black;
     color: brown;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-radius: 10px;
