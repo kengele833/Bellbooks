@@ -80,11 +80,14 @@ a {
     margin: 15px;
     background-color: black;
     color: gold;
+    border-radius: 10px;
+   
 }
 
 a:hover {
     color: red;
     background-color: white;
+    border-radius: 10px;
 }
 
 .mid{
@@ -159,6 +162,7 @@ fieldset{
     background-color: dark-blue;
     color: brown;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 10px;
 }
 .CHAND{
    background-color: grey;
