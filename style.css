@@ -21,6 +21,7 @@ fieldset tanga{
     font-size: small;
      width: 40%;
     height: 40%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .logo{
     color: lightskyblue;
@@ -152,8 +153,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 fieldset{
-    background-color: grey;
+    background-color: orange;
     color: brown;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .CHAND{
    background-color: grey;
