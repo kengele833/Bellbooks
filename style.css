@@ -9,7 +9,7 @@
 .dp{
     height: 200px;
     width: 300px;
-    background-image: url(./pct/log.jpg);
+    background-image: url(./log.jpg);
     border-radius: 800px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,7 +46,7 @@ h2{
 
 
 .header1{
-    background-image: url(./pct/bok.jpg);
+    background-image: url(./bok.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -94,14 +94,14 @@ select{
     background-color: black;
 }
 .bod2{
-    background-image: url(./pct/afr.jpg);
+    background-image: url(./afr.jpg);
     
     
 }
 .last{
     height: 70px;
     width: 200px;
-    background-image: url(./pct/bel.jfif);
+    background-image: url(./bel.jfif);
     border-radius: 900px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -126,7 +126,7 @@ justify-content: right;
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .tm{
-    background-image: url(./pct/bell.jfif);
+    background-image: url(./bell.jfif);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -151,7 +151,7 @@ fieldset{
     align-items: center;
 }
 .FD1{
-    background-image: url(./pct/sc.jpg);
+    background-image: url(./sc.jpg);
 
     color: green;
 }
@@ -166,7 +166,7 @@ fieldset{
     color: blue;
 }
 .ch{
-    background-image: url(./pct/CHEM5.jpg);
+    background-image: url(./CHEM5.jpg);
     background-size: cover;
     color: red;
 }
@@ -178,7 +178,7 @@ fieldset{
 color: red;
 }
 .table{
-    background-image: url(./pct/bx.webp);
+    background-image: url(./bx.webp);
     background-size: cover;
     background-repeat: no repeat;
     width: 90vw;
