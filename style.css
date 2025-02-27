@@ -1,15 +1,15 @@
 .bodyno1 { 
    background-color: black;
-   width: 80%;
-    height: 70hw;
+   width: 100%;
+    height: 100%;
    }
 .bod { 
     background-color: black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 80%;
-    height: 70vh;
+    width: 100%;
+    height: 100%;
 }
 .dp{
     height: 200px;
