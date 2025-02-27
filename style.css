@@ -1,6 +1,8 @@
 .bodyno1 { 
    background-color: black;
-}
+   width: 100%;
+    width: 100%;
+   }
 .bod { 
     background-color: black;
     display: flex;
@@ -124,7 +126,13 @@ select{
     padding: 25px;
 }
 .ft{
-   background-color: dark-blue;
+    background-image: url(./bok.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: dark-blue;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
