@@ -1,6 +1,6 @@
 .bodyno1 { 
    background-color: black;
-   width: 100%;
+   width: 100hw;
     height: 100%;
    }
 .bod { 
@@ -8,7 +8,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 100%;
+    width: 80hw;
     height: 100%;
 }
 .dp{
